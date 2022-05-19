@@ -1,0 +1,3 @@
+ajm=()=>{
+    alert("Hola mundo");
+}
