@@ -1,12 +1,15 @@
-<<<<<<< HEAD
+
 smo=()=>{
     alert("hola");
 }    
-=======
+
+const jpf = () =>{
+    alert("Hola!")
+}
+
 slc = () =>{
     alert("Hola")
 }
->>>>>>> 323200dda582d25c7c94004ffa5a9553d339303b
 smo2=()=>{
     alert("hola");
 }
