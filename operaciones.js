@@ -1,11 +1,9 @@
 
-<<<<<<< HEAD
 av=()=>{
 
         alert("HoLa");
     }
 
-=======
 
 smo=()=>{
     alert("hola");
@@ -33,4 +31,3 @@ eni=()=>{
 eni2=()=>{
     alert("Hola 2 ");
 }
->>>>>>> 0fb52ce75b8961b6c3204af7566a628ddea758c8
