@@ -1,10 +1,16 @@
 
+
 smo=()=>{
     alert("hola");
 }    
 
+
+ajm=()=>{
+    alert("Hola mundo");
+}
 const jpf = () =>{
     alert("Hola!")
+
 }
 
 slc = () =>{
