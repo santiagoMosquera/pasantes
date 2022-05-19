@@ -1,0 +1,3 @@
+slc = () =>{
+    alert("Hola")
+}
