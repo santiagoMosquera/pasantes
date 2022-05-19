@@ -1,3 +1,9 @@
+const jpf = () =>{
+    alert("Hola!")
+}
+slc = () =>{
+    alert("Hola")
+}
 smo2=()=>{
     alert("hola");
 }
